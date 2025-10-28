@@ -1,0 +1,3 @@
+Hari Pertama :
+- Perkenalan
+- Latihan Git dan Github
